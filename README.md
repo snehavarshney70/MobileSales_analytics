@@ -63,6 +63,7 @@ To view the dashboard:
 
 ---
 
+## 📬 Contact
 
 For questions or collaboration, reach out via [GitHub profile](https://github.com/snehavarshney70).
 
