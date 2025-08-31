@@ -46,7 +46,7 @@ The dashboard provides insights on:
 
 ## 📁 File
 
-- `mobile_sales_dashboard.pbix` — Power BI file containing the complete dashboard and data visualizations.
+- `MobileSales_dashboard.pbix` — Power BI file containing the complete dashboard and data visualizations.
 
 ## 🛠️ Tools Used
 
